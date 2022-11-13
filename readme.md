@@ -1,9 +1,9 @@
 # Clean Code with Java: Learn Simple Design, Refactoring & TDD
-_Original video:
-https://www.youtube.com/watch?v=Y7StNOlRc5Q
+_Original video:_
+_https://www.youtube.com/watch?v=Y7StNOlRc5Q_
 
-Original repository:
-https://github.com/in28minutes/clean-code_
+_Original repository:_
+h_ttps://github.com/in28minutes/clean-code_
 
 Learn to Write Clean Code with Java. Get Hands-on with Code Examples involving 4 principles of Simple Design, Refactoring & TDD.
 
