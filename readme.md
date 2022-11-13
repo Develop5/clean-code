@@ -3,7 +3,7 @@ _Original video:_
 _https://www.youtube.com/watch?v=Y7StNOlRc5Q_
 
 _Original repository:_
-h_ttps://github.com/in28minutes/clean-code_
+_https://github.com/in28minutes/clean-code_
 
 Learn to Write Clean Code with Java. Get Hands-on with Code Examples involving 4 principles of Simple Design, Refactoring & TDD.
 
